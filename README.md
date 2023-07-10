@@ -19,3 +19,16 @@ To use the website simply click on the many link offers on the webpage.
 3. Doownload the necessary files and resources.
 
 4. Launch on the google chrome web app
+5. ## Technologies Used
+
+- HTML
+- CSS
+
+
+
+Author: [Phillip Lloyd]
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
