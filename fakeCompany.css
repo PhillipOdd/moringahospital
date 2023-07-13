@@ -1,6 +1,11 @@
 body{
 
     border: solid maroon;
+    
+}
+.container1{
+    display: flex;
+
 }
 * {
     margin: 0;
@@ -45,9 +50,65 @@ body{
 
 }
 
+.header{
+    
+    margin-right:30%;
+    margin-left: 10%;
+
+}
+ .images{
+    
+    margin-right: 00%;
+ }
+
 .header a{
 
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 8%;
+    margin-top: 15%;
+    
+}
+
+.header img{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.header h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 15%;
+}
+
+span{
+    color: maroon;
+    font-size: 205%;
+    margin-top: 5%;
+}
+
+.header p1{
+    color: grey;
+    line-height: 22px;
+    
+}
+
+.header a{
+    background: black;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+
+
+
+.images img{
+    width: 820px;
     
 }
 
